@@ -1,1 +1,1 @@
-web: gunicorn difi.wsgi
+web:gunicorn difi.wsgi
